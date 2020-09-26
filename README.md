@@ -1,2 +1,2 @@
-# flexbox-grid
+# fotografia-zim
  site with FlexBox, Grid
